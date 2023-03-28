@@ -1,0 +1,263 @@
+*{
+    box-sizing: border-box;
+}
+
+.logodocplanner{
+    width: 25%;
+}
+
+nav{
+    top:0%;
+    display:flex;
+    justify-content: space-around;
+}
+.ul-du-nav{
+    list-style:none;
+    display:flex;
+    
+
+}
+.ul-du-nav li{
+  margin: 0%;
+  padding: 3%;
+  
+}
+.àpropos{
+    color:#00b39b;
+}
+
+
+.logo{
+    width: 5%;
+    margin-left: 48%;
+    margin-top: 5%;
+}
+
+.experience{
+    text-align: center;
+    font-size: 2.125rem;
+    color: #00b39b;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    padding-top: 3%;
+}
+.paragraphe{
+    display:flex;
+    padding-top:3% ;
+    padding-bottom:3% ;
+    text-align: center;
+    justify-content:center;
+
+}
+.paragraphe1{
+    width:39%;
+    font-size: large;
+    font-weight: 400;
+    margin: 1%;
+}
+.paragraphe2{
+    width: 39%;
+    font-size: large;
+    font-weight: 400;
+    margin: 1%;
+}
+
+#grostitre,#petittitre{
+    font-size:x-large;
+}
+#petittitre{
+    font-weight: 100;
+    margin-bottom: 15%;
+}
+
+#grostitre{
+    font-weight: 400;
+}
+
+.clinique{
+    background-color:#1b2734 ;
+    color:white;
+    padding:5%;
+    margin: 1%;
+    border-radius: 3%;
+    margin-top:0% ;
+    margin-bottom: 0%;
+}
+.médecin{
+   background-color:#3d83df;
+   color:white;
+   padding:5%;
+   margin: 1%;
+   border-radius: 3%;
+   margin-top:0% ;
+   margin-bottom: 0%;
+}
+.patient{
+   background-color:#00ccb1;
+   color:white;
+   padding:5%;
+   margin: 1%;
+   border-radius: 3%;
+   margin-top:0% ;
+   margin-bottom: 0%;
+}
+.entreprise h1{
+    line-height: 1.3;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    color: #00b39b;
+    float: left;
+    width: 33%;
+    font-size: 1.625em;
+    margin-left: 8%;
+    padding-right: 1em;
+    width: 22%;
+}
+
+.entreprise{
+    display:flex;
+    padding-bottom: 5%;
+    padding-top: 0%;
+}
+.sigle{
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    font-size: 0;
+    list-style: none;
+    width: 67%
+}
+.liste{
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    width: 150%;
+}
+.manylogo{
+    font-size: 1rem;
+    display: inline-block;
+    margin-top: 0;
+    padding: 5px 0 5px 5px;
+    width: 25%;
+}
+.clinicloud,.gipo{
+    font-size: 1rem;
+    display: inline-block;
+    margin-top: 0;
+    padding: 5px 0 5px 5px;
+    width: 12.5%;
+}
+.box1,.box2,.box3,.box4{
+    background-color: white;
+    color:#00b39b;
+    padding: 2%;
+    height: 40%;
+    align-content: center;
+    border-radius: 4%;
+}
+.box1 p,.box2 p,.box3 p,.box4 p{
+    font-size: small;
+    justify-content: center;
+}
+
+.logo2{
+    width: 56%;
+}
+.box1 h3,.box2 h3,.box3 h3,.box4 h3{
+    font-weight: 100;
+    font-size: larger;
+    
+}
+
+.visite{
+    margin-right: 30%;
+}
+.santé{
+    background-color: #91f0e3;
+    display: flex;
+    justify-content: center;
+
+}
+.en-tete{
+    margin-left: 10%;
+}
+
+.mini-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-right: 6%;
+    
+}
+
+.plateforme{
+    font-weight: 300;
+    color:#00b39b;
+    
+}
+.santé p{
+    color:gray
+}
+.amélioration h1{
+    font-size:xx-large;
+    color:#00b39b;
+    padding-top: 10%;
+    text-align: center;
+    margin-bottom: 2%;
+    font-weight: 100;
+}
+
+.amélioration p{
+   font-weight: 400;
+    color: #747474;
+     font-size: .875em;
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+}
+.bogota{
+    width:34% ;
+    height: 115%;
+}
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    margin-right: 3%;
+    padding-top: 5%;
+    padding-bottom: 10%;
+    
+}
+.galerie{
+    margin: 1%;
+    display:flex
+    
+}
+.nousrejoindre a{
+    font-weight: bold;
+    background-color: rgb(92, 92, 241);
+    color: white;
+    font-size: medium;
+    padding: 2%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.nousrejoindre{
+   padding-bottom: 15%;
+    text-align: center;
+    font-size: x-large;
+   font-family: 'Times New Roman', Times, serif;
+    color:#333;
+   font-weight: 100;
+   width: 42%;
+   margin-left: 30%;
+}
+
+.pied{
+     text-align: center;
+     font-size:smaller;
+
+}
+
+
